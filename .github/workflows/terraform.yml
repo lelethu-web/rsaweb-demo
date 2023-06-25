@@ -16,7 +16,7 @@
 
         steps:
             - name: checkout
-              uses: action/checkout@v1
+              uses: action/checkout@v2
 
 
             - name: Terraform init
